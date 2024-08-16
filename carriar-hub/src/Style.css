@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+.manrope-extra-bold {
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:800;
+    font-style: normal;
+ }
+ .manrope-black {
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:900;
+    font-style: normal;
+ }
+ .manrope-semibold{
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+ }
+ .manrope-bold{
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:700;
+    font-style: normal;
+ }
+ .manrope-medium{
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:500;
+    font-style: normal;
+ }
+ .manrope-regular{
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+ }
+ .bg-theme{
+    background: linear-gradient(to  right, #7E90FE, #9873FF);
+ }
+ .btn-theme{
+    background: linear-gradient(to  right, #7E90FE, #9873FF);
+    color:white;
+ }
+ .text-theme{
+    background: linear-gradient(to  right, #7E90FE, #9873FF);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+ }
+ svg{
+    display: inline !important;
+ }
+ .header, .section{
+   background: linear-gradient(to right, #7e90fe29, #9873ff38);
+
+ }
